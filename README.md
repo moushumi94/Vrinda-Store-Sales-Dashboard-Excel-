@@ -8,36 +8,36 @@
 The Vrinda Store Sales Dashboard is an interactive Microsoft Excel dashboard designed to analyze sales performance across different regions, product categories, and months. It provides key business insights through dynamic KPIs, charts, and slicers, enabling users to make data-driven decisions.
 
 ## 🚀 Dashboard Features
-📈 Total Sales KPI
-📦 Total Units Sold
-🏆 Top Product Category
-🌍 Top Performing Region
-🍩 Sales by Product Category
-📊 Quantity Sold by Month
-📍 Sales by Region
-📉 Monthly Sales Trend
-🎛 Interactive Slicers
-Region
-Product Category
-Month
+- 📈 Total Sales KPI
+- 📦 Total Units Sold
+- 🏆 Top Product Category
+- 🌍 Top Performing Region
+- 🍩 Sales by Product Category
+- 📊 Quantity Sold by Month
+- 📍 Sales by Region
+- 📉 Monthly Sales Trend
+- 🎛 Interactive Slicers
+  - Region
+  - Product Category
+  - Month
 
 ## 🛠 Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-Dashboard Design
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Dashboard Design
 
 ## 📂 Data Source
 - Sales dataset collected from Kaggle
 
 ## 📊 Key Insights
-Analyze monthly sales performance.
-Compare sales across different regions.
-Identify the best-selling product category.
-Monitor total revenue and units sold.
-Filter the dashboard dynamically using slicers.
+- Analyze monthly sales performance.
+- Compare sales across different regions.
+- Identify the best-selling product category.
+- Monitor total revenue and units sold.
+- Filter the dashboard dynamically using slicers.
 
 ## 💡 Business Impact
 - Provided a centralized dashboard for monitoring sales performance in real time.
